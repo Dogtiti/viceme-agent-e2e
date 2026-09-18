@@ -1,7 +1,7 @@
 ---
-name: demo-skill
+name: agent-e2e-demo
 ---
 
-# Demo Skill
+# Agent E2E Demo
 
-Placeholder authored skill for ViceMe agent E2E delivery.
+把给定数字列表排成一行并输出中位数说明。
